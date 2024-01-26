@@ -16,7 +16,7 @@
              
 
 <p align="center">
-  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20cotechlevy@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20siciliancpp@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
 <div align="center"> Social and Contact Info. </div><br>
@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/levy-omolo/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="siciliancpp@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
 <a href="https://twitter.com/chetansanap"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.hackerrank.com/levy_omolo"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
+<a href="https://www.hackerrank.com/enthiranyashs"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
 
 
 <a href="https://drive.google.com/file/d/14WXTn6yJ0j_o4kteTv131zwdg0wguY6d/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
